@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GalleryAPP</string>
+    <string name="web_client_id">348777715304-01k3dq9sbo4crbajnj8uvr4vdcgesl0g.apps.googleusercontent.com</string>
+    <string name="unplash_access_key">D0WemZ0kLdipcZOwem3Ao3ahlbVfCAmvfg9CoFDuBoQ</string>
+    <string name="unplash_secret_key">vBZTTU5KvfhXyK9lh4fFyMZPYF4aBaY7l-v_rasQJfQ</string>
+</resources>
